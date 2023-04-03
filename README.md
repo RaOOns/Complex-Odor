@@ -17,11 +17,10 @@ The goal of this study is to prevent  the occurrence of complex odor using odor 
 - The study1 compares 126 pipelines for an optimal prediction model pipeline. In addition, Correlation analysis, PCA and Feature importance are performed.\
   (**Data special note: High missing rate, Small amount of data)
 
-![(Figure 2) The overall workflow of the conducted study](https://user-images.githubusercontent.com/79679194/229401591-ac6cf608-bb72-4d5a-8a2d-2d621f7b2d1b.jpg)
+<p align="center"><img src="https://user-images.githubusercontent.com/79679194/229401591-ac6cf608-bb72-4d5a-8a2d-2d621f7b2d1b.jpg" height="400px" width="600px"></p>
 
 
 - The study2 creates the optimal predictive classification model(emission or non emission) and interprets the relationship between the variables using PDP of XAI. In addition, ANOVA, Correlation analysis and Feature importance are performed.\
   (**Data special note: Convert complex odor(numerical) to categorical)
 
-![pipelines](https://user-images.githubusercontent.com/79679194/229402641-fc6952fe-82b0-4c2b-bac3-99b54a16678d.png)
-
+<p align="center"><img src="https://user-images.githubusercontent.com/79679194/229402641-fc6952fe-82b0-4c2b-bac3-99b54a16678d.png" height="300px" width="500px"></p>
